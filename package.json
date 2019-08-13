@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.1",
+    "appcenter": "2.2.0",
+    "appcenter-analytics": "2.2.0",
+    "appcenter-crashes": "2.2.0",
     "emoji-utils": "^1.0.1",
     "react": "16.8.6",
     "react-native": "0.60.4",
